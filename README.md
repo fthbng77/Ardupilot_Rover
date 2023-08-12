@@ -12,3 +12,8 @@ NOTE: The test part is designed for the drone in the gazebo simulation, if you w
 NOTE2: You can view the training instantly using wandb, for this you can use the file pre_trained_wandb_integradet.py
 
 ![loss_tablo_görüntü](training_validation_loss.png)
+
+
+wandb chart: 
+
+![WandB_görüntü](wandB.png)
